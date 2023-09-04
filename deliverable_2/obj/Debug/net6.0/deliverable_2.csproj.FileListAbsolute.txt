@@ -1,0 +1,14 @@
+C:\Users\ksole\Documents\Grand Circus Bootcamp\deliverable_2\deliverable_2\bin\Debug\net6.0\deliverable_2.exe
+C:\Users\ksole\Documents\Grand Circus Bootcamp\deliverable_2\deliverable_2\bin\Debug\net6.0\deliverable_2.deps.json
+C:\Users\ksole\Documents\Grand Circus Bootcamp\deliverable_2\deliverable_2\bin\Debug\net6.0\deliverable_2.runtimeconfig.json
+C:\Users\ksole\Documents\Grand Circus Bootcamp\deliverable_2\deliverable_2\bin\Debug\net6.0\deliverable_2.dll
+C:\Users\ksole\Documents\Grand Circus Bootcamp\deliverable_2\deliverable_2\bin\Debug\net6.0\deliverable_2.pdb
+C:\Users\ksole\Documents\Grand Circus Bootcamp\deliverable_2\deliverable_2\obj\Debug\net6.0\deliverable_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksole\Documents\Grand Circus Bootcamp\deliverable_2\deliverable_2\obj\Debug\net6.0\deliverable_2.AssemblyInfoInputs.cache
+C:\Users\ksole\Documents\Grand Circus Bootcamp\deliverable_2\deliverable_2\obj\Debug\net6.0\deliverable_2.AssemblyInfo.cs
+C:\Users\ksole\Documents\Grand Circus Bootcamp\deliverable_2\deliverable_2\obj\Debug\net6.0\deliverable_2.csproj.CoreCompileInputs.cache
+C:\Users\ksole\Documents\Grand Circus Bootcamp\deliverable_2\deliverable_2\obj\Debug\net6.0\deliverable_2.dll
+C:\Users\ksole\Documents\Grand Circus Bootcamp\deliverable_2\deliverable_2\obj\Debug\net6.0\refint\deliverable_2.dll
+C:\Users\ksole\Documents\Grand Circus Bootcamp\deliverable_2\deliverable_2\obj\Debug\net6.0\deliverable_2.pdb
+C:\Users\ksole\Documents\Grand Circus Bootcamp\deliverable_2\deliverable_2\obj\Debug\net6.0\deliverable_2.genruntimeconfig.cache
+C:\Users\ksole\Documents\Grand Circus Bootcamp\deliverable_2\deliverable_2\obj\Debug\net6.0\ref\deliverable_2.dll
